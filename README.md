@@ -5,7 +5,7 @@ This is a simple project to recognize faces using 'webcam', by comparing faces w
 ![alt text](video.gif)
 
 # ⚖️**License**
-This project is licensed under the MIT License, which allows unrestricted sharing and modification of the project. See the [**LICENSE**](https://github.com/IronWolf437/face-recognition?tab=MIT-1-ov-file) file for more details.
+This project is licensed under the MIT License, which allows unrestricted sharing and modification of the project. See the [**LICENSE**](LICENSE) file for more details.
 
 ---
 ### ⛔**Note:**
